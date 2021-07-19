@@ -1,1 +1,16 @@
 /* você pode estilizar se quiser !!! */
+html, body, h1, h2, p, div{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+  background-color:#ccc;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+h1{
+  color: green;
+  padding: 6vh;
+}
