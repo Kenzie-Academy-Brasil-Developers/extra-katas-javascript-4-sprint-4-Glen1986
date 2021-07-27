@@ -79,6 +79,7 @@ const kata7 = () => {
 };
 kata7();
 
+
 /***
 Escreva uma função que use 'splice' para remover 'Rohan' de 'lotrCitiesArray'
 e retorne o novo 'lotrCitiesArray' modificado. Lembre-se de também adicionar
